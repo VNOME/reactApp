@@ -1,0 +1,32 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "FirstApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VNOME/reactApp.git"
+  },
+  "keywords": [
+    "react",
+    "asp.net"
+  ],
+  "author": "mafais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VNOME/reactApp/issues"
+  },
+  "homepage": "https://github.com/VNOME/reactApp#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
